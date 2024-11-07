@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Tweinkle Rain - PHP, Laravel",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "twinklerain",
+    "category": "code",
+    "links": {
+      "view": "https://twinklerain.com",
+      "code": "https://github.com/programmermunna/twinklerain"
+    }
+  },
+  {
+    "name": "Leeseasyriders - WordPress",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "leeseasyriders",
+    "category": "wordpress",
+    "links": {
+      "view": "https://www.leeseasyriders.com",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Twinkle Academy - PHP, Laravel",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "academy.twinklerain",
+    "category": "code",
+    "links": {
+      "view": "https://academy.twinklerain.com",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Dloog - WordPress",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "dloog",
+    "category": "wordpress",
+    "links": {
+      "view": "https://www.dloog.com",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Twinkle Boost - PHP, Laravel",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "boost.twinkle",
+    "category": "code",
+    "links": {
+      "view": "https://boost.twinklerain.com",
+      "code": "https://github.com/programmermunna/TwinklePromote"
+    }
+  },
+  {
+    "name": "Hufi - WordPress",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "hufi",
+    "category": "wordpress",
+    "links": {
+      "view": "https://huit.edu.vn",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Mkiua (Union Tax System) - PHP, Laravel",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "mkiua",
+    "category": "code",
+    "links": {
+      "view": "https://mkiua.com",
+      "code": "https://github.com/programmermunna/union"
+    }
+  },
+  {
+    "name": "annualeventpost.com - WordPress",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "annualeventpost",
+    "category": "wordpress",
+    "links": {
+      "view": "https://annualeventpost.com",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Polti Firm - PHP, Laravel",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "polti_firm",
+    "category": "code",
+    "links": {
+      "view": "https://qaswaagrotech.xyz",
+      "code": "https://github.com/programmermunna/Polti_Firm_Client_Project"
+    }
+  },
+  {
+    "name": "iparlive.com - WordPress",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "iparlive",
+    "category": "wordpress",
+    "links": {
+      "view": "https://iparlive.com",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Multi Tenancy - PHP, Laravel",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "multitanancy",
+    "category": "code",
+    "links": {
+      "view": "https://github.com/programmermunna/ecommerce-tenancy",
+      "code": "https://github.com/programmermunna/ecommerce-tenancy "
+    }
+  },
+  {
+    "name": "jayfinance.com.au - WordPress",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "jayfinance",
+    "category": "wordpress",
+    "links": {
+      "view": "https://jayfinance.com.au",
+      "code": "#"
+    }
+  },
+  {
+    "name": "lendevionline - WordPress",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "lendevionline",
+    "category": "wordpress",
+    "links": {
+      "view": "https://bimberonline.com/lendevi",
+      "code": "#"
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

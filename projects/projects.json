@@ -1,7 +1,7 @@
 [
   {
     "name": "Tweinkle Rain - PHP, Laravel",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Tweinkle Rain is a web application built with PHP and Laravel, offering a user-friendly interface and robust functionality. It focuses on performance, security",
     "image": "twinklerain",
     "category": "code",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Leeseasyriders - WordPress",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Leeseasyriders – A WordPress site providing motorcycle rental services, allowing users to browse, compare, and rent motorcycles easily with secure booking options.",
     "image": "leeseasyriders",
     "category": "wordpress",
     "links": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Twinkle Academy - PHP, Laravel",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Twinkle Academy – A PHP and Laravel-based educational platform offering online courses, learning resources.",
     "image": "academy.twinklerain",
     "category": "code",
     "links": {
@@ -31,7 +31,7 @@
   },
   {
     "name": "Dloog - WordPress",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Dloog – A WordPress website offering digital services like website development and marketing, helping businesses enhance their online presence and growth.",
     "image": "dloog",
     "category": "wordpress",
     "links": {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Twinkle Boost - PHP, Laravel",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Twinkle Boost – A PHP and Laravel platform providing boosting services like performance optimization and resource management to improve user experience",
     "image": "boost.twinkle",
     "category": "code",
     "links": {
@@ -51,7 +51,7 @@
   },
   {
     "name": "Hufi - WordPress",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Hufi – A WordPress site offering information and resources about the Hufi organization, focused on community support and engagement.",
     "image": "hufi",
     "category": "wordpress",
     "links": {
@@ -61,7 +61,7 @@
   },
   {
     "name": "Mkiua (Union Tax System) - PHP, Laravel",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Mkiua (Union Tax System) – A PHP and Laravel-based platform for union organizations to manage tax reporting.",
     "image": "mkiua",
     "category": "code",
     "links": {
@@ -71,7 +71,7 @@
   },
   {
     "name": "annualeventpost.com - WordPress",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Annualeventpost.com – A WordPress platform for posting and promoting annual events, helping organizers share event details, manage registrations",
     "image": "annualeventpost",
     "category": "wordpress",
     "links": {
@@ -81,7 +81,7 @@
   },
   {
     "name": "Polti Firm - PHP, Laravel",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Polti Firm – A PHP and Laravel solution for the legal and financial sectors, offering client management, secure data handling.",
     "image": "polti_firm",
     "category": "code",
     "links": {
@@ -91,7 +91,7 @@
   },
   {
     "name": "iparlive.com - WordPress",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Iparlive.com – A WordPress website for live streaming parliamentary sessions and political events, keeping users updated with real-time political coverage.",
     "image": "iparlive",
     "category": "wordpress",
     "links": {
@@ -101,7 +101,7 @@
   },
   {
     "name": "Multi Tenancy - PHP, Laravel",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Multi Tenancy – A PHP and Laravel solution for multi-tenant applications, providing secure data isolation and centralized management for businesses.",
     "image": "multitanancy",
     "category": "code",
     "links": {
@@ -111,7 +111,7 @@
   },
   {
     "name": "jayfinance.com.au - WordPress",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Jayfinance.com.au – A WordPress site offering financial services in Australia, helping users compare financial products like loans, insurance.",
     "image": "jayfinance",
     "category": "wordpress",
     "links": {
@@ -121,7 +121,7 @@
   },
   {
     "name": "lendevionline - WordPress",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Lendevionline – A WordPress platform for online lending, enabling users to apply for loans, manage repayments, and access financial products with secure transactions.",
     "image": "lendevionline",
     "category": "wordpress",
     "links": {

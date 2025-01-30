@@ -757,6 +757,31 @@ header .navbar ul li a:hover {
 }
 /* work section ends */
 
+
+.videoBox {
+  display: flex;
+  flex-wrap: wrap; /* Ensures videos wrap to the next line if needed */
+  gap: 16px; /* Adds spacing between videos */
+  justify-content: center; /* Centers videos horizontally */
+  align-items: center; /* Aligns videos vertically */
+  padding: 20px;
+}
+.video {
+  flex: 1 1 calc(50% - 20px); /* Each video takes up 50% of the container width with spacing */
+  max-width: 480px; /* Sets a maximum width */
+  width: 100%; /* Makes it responsive */
+  height: 400px; /* Adjusts height to maintain aspect ratio */
+  object-fit: cover;
+  border: 2px solid #ddd; /* Optional border */
+  border-radius: 10px; /* Optional rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow */
+}
+@media (max-width: 768px) {
+  .video {
+    flex: 1 1 100%; /* On smaller screens, each video takes full width */
+  }
+}
+
 /* experience section starts */
 .experience .timeline {
   position: relative;
